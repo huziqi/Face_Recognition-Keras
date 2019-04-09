@@ -5,5 +5,6 @@ In this project, I make a face_recognition demo based on Keras/Tensorflow. The d
 ![Image text](result_image/Accuracy.png)  
 ![Image text](result_image/Loss.png)
 
-* Structure of CNN I used:
+* Structure of CNN I used:  
 ![Image text](result_image/modelcnn.png)
+
